@@ -1,5 +1,0 @@
-public enum SCHEDULE_STATUS {
-    SCHEDULED,
-    NOT_SCHEDULED,
-
-}
